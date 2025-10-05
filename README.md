@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Hamish Morgan
 
-<!--
-**hamishmorgan/hamishmorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🏢 Working as **Senior Engineer** at Shopify, Brighton
+* 🧮 Exploring **Rust** for random interests like games and parsers  
+* 🌱 Programming since **1994**... I've forgotten more than I'll ever know
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby)
+![Rails](https://img.shields.io/badge/-Rails-000?&logo=ruby-on-rails)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=gnu-bash)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/hamish/)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:hamish.morgan@gmail.com)
